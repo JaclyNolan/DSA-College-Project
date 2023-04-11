@@ -4,7 +4,7 @@ public class AlgorithmSpeedTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int[] arr1 = new int[50000], arr2 = new int[50000];
+		int[] arr1 = new int[50000], arr2 = new int[50000];
 		 
         // Initialize array with random values
         for (int i = 0; i < arr1.length; i++) {
